@@ -1,0 +1,6 @@
+# ninja log v5
+1	273	1652799854648123206	CMakeFiles/shared_memory.dir/main2.cpp.o	f0f3df16758dc66d
+1	213	1652800458895360464	CMakeFiles/shared_memory.dir/main.cpp.o	3ed6f6cf561e51e3
+0	15	1652806294754371428	build.ninja	9679659ef7938cd1
+1	229	1652800458912027229	CMakeFiles/shared_memory.dir/readeer1.cpp.o	961232297293ea99
+232	295	1652800192223740595	shared_memory	5e155ce8c6fe3852
